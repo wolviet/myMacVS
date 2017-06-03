@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{480E1E9C-0AAC-4C8B-B02C-8471A1E750B8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myMacVS Status">
+    <Files>
+      <File FileName="wwwroot Status" />
+      <File FileName="myMacVS Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.myMacVS PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

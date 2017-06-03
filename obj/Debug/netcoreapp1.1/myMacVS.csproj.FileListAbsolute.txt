@@ -1,0 +1,10 @@
+/Users/garytunnicliff/myMacVS/bin/Debug/netcoreapp1.1/myMacVS.deps.json
+/Users/garytunnicliff/myMacVS/bin/Debug/netcoreapp1.1/myMacVS.runtimeconfig.json
+/Users/garytunnicliff/myMacVS/bin/Debug/netcoreapp1.1/myMacVS.runtimeconfig.dev.json
+/Users/garytunnicliff/myMacVS/bin/Debug/netcoreapp1.1/myMacVS.dll
+/Users/garytunnicliff/myMacVS/bin/Debug/netcoreapp1.1/myMacVS.pdb
+/Users/garytunnicliff/myMacVS/obj/Debug/netcoreapp1.1/myMacVS.csprojResolveAssemblyReference.cache
+/Users/garytunnicliff/myMacVS/obj/Debug/netcoreapp1.1/myMacVS.csproj.CoreCompileInputs.cache
+/Users/garytunnicliff/myMacVS/obj/Debug/netcoreapp1.1/myMacVS.AssemblyInfo.cs
+/Users/garytunnicliff/myMacVS/obj/Debug/netcoreapp1.1/myMacVS.dll
+/Users/garytunnicliff/myMacVS/obj/Debug/netcoreapp1.1/myMacVS.pdb
