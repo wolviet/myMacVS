@@ -52,8 +52,16 @@ namespace myMacVS.Controllers
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody]string value)
+        public IActionResult Create([FromBody] Car item)
         {
+            if (item == null)
+                return BadRequest();
+            
+
+            _context.Cars.Add(item);
+            _context.SaveChanges();
+
+            return CreatedAtRoute("GetCar", new { id = item.CarId }, item);
         }
 
         // PUT api/values/5
