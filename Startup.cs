@@ -8,6 +8,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
+using Microsoft.EntityFrameworkCore;
+using myMacVS.Models;
+
 namespace myMacVS
 {
     public class Startup
@@ -28,6 +31,7 @@ namespace myMacVS
         public void ConfigureServices(IServiceCollection services)
         {
             // Add framework services.
+            services.AddDbContext<CarContext>(opt => opt.UseInMemoryDatabase());
             services.AddMvc();
         }
 
