@@ -21,7 +21,7 @@ namespace myMacVS.Controllers
             if(_context.Cars.Count() == 0)
             {
                 _context.Cars.Add((new Car{ Make="Mazda",CarModel="Takuya",Colour="Aluminium"}));
-                _context.Cars.Add(new Car{ Make="BMW",Colour="Black",CarModel="% Series"});
+                _context.Cars.Add(new Car{ Make="BMW",Colour="Black",CarModel="5 Series"});
                 _context.SaveChanges();
             }
         }
