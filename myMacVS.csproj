@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
     <ApplicationInsightsResourceId>/subscriptions/42b1fcd8-c6eb-4779-bf52-8e3bb857b074/resourcegroups/dev/providers/microsoft.insights/components/webgazcore</ApplicationInsightsResourceId>
-    <ApplicationInsightsAnnotationResourceId>/subscriptions/42b1fcd8-c6eb-4779-bf52-8e3bb857b074/resourcegroups/dev/providers/microsoft.insights/components/webgazcore</ApplicationInsightsAnnotationResourceId>
+    <ApplicationInsightsAnnotationResourceId>/subscriptions/42b1fcd8-c6eb-4779-bf52-8e3bb857b074/resourceGroups/dev/providers/microsoft.insights/components/webgazcore</ApplicationInsightsAnnotationResourceId>
   </PropertyGroup>
 
 
