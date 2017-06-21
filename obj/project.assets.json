@@ -9855,15 +9855,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GaryTunnicliff\\.nuget\\packages\\": {}
+    "C:\\Users\\Gaz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GaryTunnicliff\\Source\\Repos\\myMacVS\\myMacVS.csproj",
+      "projectUniqueName": "C:\\Users\\Gaz\\Source\\Repos\\myMacVS\\myMacVS.csproj",
       "projectName": "myMacVS",
-      "projectPath": "C:\\Users\\GaryTunnicliff\\Source\\Repos\\myMacVS\\myMacVS.csproj",
-      "outputPath": "C:\\Users\\GaryTunnicliff\\Source\\Repos\\myMacVS\\obj\\",
+      "projectPath": "C:\\Users\\Gaz\\Source\\Repos\\myMacVS\\myMacVS.csproj",
+      "outputPath": "C:\\Users\\Gaz\\Source\\Repos\\myMacVS\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
