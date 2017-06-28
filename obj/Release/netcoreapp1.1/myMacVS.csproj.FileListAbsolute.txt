@@ -1,0 +1,9 @@
+C:\Users\Gaz\Source\Repos\myMacVS\bin\Release\netcoreapp1.1\myMacVS.deps.json
+C:\Users\Gaz\Source\Repos\myMacVS\bin\Release\netcoreapp1.1\myMacVS.runtimeconfig.json
+C:\Users\Gaz\Source\Repos\myMacVS\bin\Release\netcoreapp1.1\myMacVS.runtimeconfig.dev.json
+C:\Users\Gaz\Source\Repos\myMacVS\bin\Release\netcoreapp1.1\myMacVS.dll
+C:\Users\Gaz\Source\Repos\myMacVS\bin\Release\netcoreapp1.1\myMacVS.pdb
+C:\Users\Gaz\Source\Repos\myMacVS\obj\Release\netcoreapp1.1\myMacVS.AssemblyInfo.cs
+C:\Users\Gaz\Source\Repos\myMacVS\obj\Release\netcoreapp1.1\myMacVS.dll
+C:\Users\Gaz\Source\Repos\myMacVS\obj\Release\netcoreapp1.1\myMacVS.pdb
+C:\Users\Gaz\Source\Repos\myMacVS\obj\Release\netcoreapp1.1\myMacVS.csprojResolveAssemblyReference.cache

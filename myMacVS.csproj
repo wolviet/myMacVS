@@ -30,4 +30,7 @@
     <Compile Remove="UnitTest1.cs" />
     <Compile Remove="HomeController_tests.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="Properties\PublishProfiles\webgazcore - Web Deploy.pubxml" />
+  </ItemGroup>
 </Project>

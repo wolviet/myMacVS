@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/garytunnicliff/.nuget/packages"
+      "C:\\Users\\Gaz\\.nuget\\packages"
     ]
   }
 }
