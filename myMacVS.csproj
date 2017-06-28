@@ -28,5 +28,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="UnitTest1.cs" />
+    <Compile Remove="HomeController_tests.cs" />
   </ItemGroup>
 </Project>

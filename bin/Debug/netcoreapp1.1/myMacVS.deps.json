@@ -1,11 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-<<<<<<< HEAD
-    "signature": "5d9cabc19b190be5c52d70a03c8d646ab9920f9b"
-=======
     "signature": "303c77297a6e28483e65e8c5980c647ba0373c97"
->>>>>>> 668a425... changed About Page to H2
   },
   "compilationOptions": {
     "defines": [
@@ -53,11 +49,7 @@
           "System.IO": "4.3.0",
           "System.IO.Compression": "4.3.0",
           "System.Linq": "4.3.0",
-<<<<<<< HEAD
-          "System.Net.Http": "4.3.2",
-=======
           "System.Net.Http": "4.3.0",
->>>>>>> 668a425... changed About Page to H2
           "System.Reflection": "4.3.0",
           "System.Reflection.Extensions": "4.3.0",
           "System.Runtime": "4.3.0",
