@@ -35,7 +35,7 @@ Include jQuery and the plugin on a page. Then select a form to validate and call
 
 ```html
 <form>
-	<input required>
+ <input required>
 </form>
 <script src="jquery.js"></script>
 <script src="jquery.validate.js"></script>
@@ -48,7 +48,7 @@ Alternatively include jQuery and the plugin via requirejs in your module.
 
 ```js
 define(["jquery", "jquery.validate"], function( $ ) {
-	$("form").validate();
+ $("form").validate();
 });
 ```
 

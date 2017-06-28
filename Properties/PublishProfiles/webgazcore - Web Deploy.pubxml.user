@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< Updated upstream
-<!--
-This file is used by the publish/package process of your Web project. You can customize the behavior of this process
-by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
--->
-<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-=======
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <EncryptedPassword>GLBZtKqEoaoMh1+6h3je+KvYUMavAYwINAC1hrQpOI9JJLU4c2rM+hWFREoUUA+Hy42T6AsANL27vo0VgverUYi6IWEJfeU6KjKxOueQ55rtums8tXhT96O8sAYavZ3wEK+1lsBhEbHDH+SwgIR+EnkFpHw+mh+LfyF5CJh9Cwa5hXzzVrRkEpN+XRZRfogZpM3VgJaYh11i03RARxeU/4ODFhTq30prxxS7l6VcgyoJLcCmsLkbSvAqYZB8qom1IhHbNGRdKVsovGkIZ01R2AafzTBNGOssfXiEMVi77MbMK/Fwgor3m2DEYHs9yqGn2fLdYkiToS1kbjxdSFaKojw+nH4SLEzu9FRbtSFQXCe9UBMdXAqpGNiRctHqoiHid7ttYuloOZ2/D96/J1yVffgCwk1gabQnEmxDeu/fRtA=</EncryptedPassword>
+    <EncryptedPassword>otKd9GjNh1CSjnmMXmz4BI6AvNoUYieYvLveM/BSVABnO8VDW1/9xXv/zofmjiMVTraVoVOC4+ZZf9Kk3K6zrOkMLjtsEO2Ub68/y56JS1iimNEhgltzQ9Zi5ZEPghBdVXtxxujk2SmuPSK63tZPiB7jVesUqWKIZsLx00Z3wctb3jCnNfpTs82UF1/Qw6PCxnhGOaCbgt4gBrS5SGqRrSorixmULMIFf2tCc6dMalBMa1l3RZZuhs3+SYzOtzXAkZVm+tOE5P+0eF96xSkDtlsc8zSM2V+yv9vAPAOxCvWPZcqJvANY2W++BuzN7oFYPFdmdcgqZwqMWAX/2XUZ/YZ6Zw7AqcGjZbKv9Nuz2jRj1vzxwE+PX94wTVQdM5916CtC1zRKuZ+Apjr+OsOtcKsJL2B9GVUUjpW6jvBaqYM=</EncryptedPassword>
   </PropertyGroup>
->>>>>>> Stashed changes
 </Project>

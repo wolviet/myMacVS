@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{480E1E9C-0AAC-4C8B-B02C-8471A1E750B8}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="myMacVS Status">
     <Files>
-      <File FileName="Views/Home/About.cshtml" Line="8" Column="19" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="44" Column="37" />
+      <File FileName="HomeController_tests.cs" Line="16" Column="51" />
       <File FileName="myMacVS Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>

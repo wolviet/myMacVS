@@ -18,10 +18,10 @@ namespace myMacVS.Controllers
         public CarController(CarContext context)
         {
             _context = context;
-            if(_context.Cars.Count() == 0)
+            if (_context.Cars.Count() == 0)
             {
-                _context.Cars.Add((new Car{ Make="Mazda",CarModel="Takuya",Colour="Aluminium"}));
-                _context.Cars.Add(new Car{ Make="BMW",Colour="Black",CarModel="5 Series"});
+                _context.Cars.Add((new Car { Make = "Mazda", CarModel = "Takuya", Colour = "Aluminium" }));
+                _context.Cars.Add(new Car { Make = "BMW", Colour = "Black", CarModel = "5 Series" });
                 _context.SaveChanges();
             }
         }
@@ -33,14 +33,14 @@ namespace myMacVS.Controllers
         {
             return _context.Cars.ToList();
         }
-                                        
+
 
         // GET api/values/5
-        [HttpGet("{id}", Name="GetCar")]
+        [HttpGet("{id}", Name = "GetCar")]
         public IActionResult GetById(long id)
         {
             var item = _context.Cars.FirstOrDefault(t => t.CarId == id);
-            if(item == null)
+            if (item == null)
             {
                 return NotFound();
             }
@@ -56,7 +56,7 @@ namespace myMacVS.Controllers
         {
             if (item == null)
                 return BadRequest();
-            
+
 
             _context.Cars.Add(item);
             _context.SaveChanges();
