@@ -10,3 +10,4 @@ C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\i\test-MyMacVS\De
 C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\i\test-MyMacVS\Debug\netcoreapp1.1\test-MyMacVS.AssemblyInfo.cs
 C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\i\test-MyMacVS\Debug\netcoreapp1.1\test-MyMacVS.dll
 C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\i\test-MyMacVS\Debug\netcoreapp1.1\test-MyMacVS.pdb
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\i\test-MyMacVS\Debug\netcoreapp1.1\test-MyMacVS.csprojResolveAssemblyReference.cache
