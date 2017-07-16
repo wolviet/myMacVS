@@ -1,0 +1,11 @@
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\b\myMacVS\Debug\netcoreapp1.1\myMacVS.deps.json
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\b\myMacVS\Debug\netcoreapp1.1\myMacVS.runtimeconfig.json
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\b\myMacVS\Debug\netcoreapp1.1\myMacVS.runtimeconfig.dev.json
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\b\myMacVS\Debug\netcoreapp1.1\myMacVS.dll
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\b\myMacVS\Debug\netcoreapp1.1\myMacVS.pdb
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\b\myMacVS\Debug\netcoreapp1.1\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\i\myMacVS\Debug\netcoreapp1.1\myMacVS.csprojResolveAssemblyReference.cache
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\i\myMacVS\Debug\netcoreapp1.1\myMacVS.csproj.CoreCompileInputs.cache
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\i\myMacVS\Debug\netcoreapp1.1\myMacVS.AssemblyInfo.cs
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\i\myMacVS\Debug\netcoreapp1.1\myMacVS.dll
+C:\Users\GaryTunnicliff\source\repos\myMacVS\.vs\myMacVS\lut\0\i\myMacVS\Debug\netcoreapp1.1\myMacVS.pdb
