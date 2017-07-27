@@ -6,6 +6,13 @@
     <ApplicationInsightsAnnotationResourceId>/subscriptions/42b1fcd8-c6eb-4779-bf52-8e3bb857b074/resourceGroups/dev/providers/microsoft.insights/components/webgazcore</ApplicationInsightsAnnotationResourceId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="test-mymacvs\**" />
+    <Content Remove="test-mymacvs\**" />
+    <EmbeddedResource Remove="test-mymacvs\**" />
+    <None Remove="test-mymacvs\**" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
@@ -15,6 +22,7 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.2" />
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.1.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="1.1.2" />
+    <PackageReference Include="xunit" Version="2.2.0" />
   </ItemGroup>
 
 
