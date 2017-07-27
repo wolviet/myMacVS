@@ -36,6 +36,7 @@
     <Compile Remove="test-MyMacVS\test-MyMacVS\TestController.cs" />
     <Compile Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.Program.cs" />
     <Compile Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.AssemblyInfo.cs" />
+    <Compile Remove="test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\test-MyMacVS.Program.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Properties\PublishProfiles\webgazcore - Web Deploy.pubxml" />
@@ -53,6 +54,7 @@
     <None Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.csprojResolveAssemblyReference.cache" />
     <None Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.dll" />
     <None Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.pdb" />
+    <None Remove="test-MyMacVS\test-MyMacVS\test-MyMacVS.userprefs" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="test-MyMacVS\test-MyMacVS\obj\project.assets.json" />

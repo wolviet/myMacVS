@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{B79CF941-2252-4843-A898-E09C798D6BF1}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="myMacVS.git Status">
     <Files>
-      <File FileName="Program.cs" Line="16" Column="18" />
+      <File FileName="Program.cs" Line="12" Column="28" />
       <File FileName="test-MyMacVS/test-MyMacVS/TestController.cs" Line="12" Column="1" />
+      <File FileName="obj/Release/netcoreapp1.1/myMacVS.AssemblyInfo.cs" Line="13" Column="1" />
       <File FileName="myMacVS.git Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.ItemProperties.test-MyMacVS PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
