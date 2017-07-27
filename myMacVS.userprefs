@@ -1,12 +1,13 @@
-﻿<Properties StartupConfiguration="{480E1E9C-0AAC-4C8B-B02C-8471A1E750B8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/About.cshtml">
+﻿<Properties StartupConfiguration="{B79CF941-2252-4843-A898-E09C798D6BF1}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myMacVS.git Status">
     <Files>
-      <File FileName="myMacVS Status" />
-      <File FileName="Controllers/CarController.cs" Line="5" Column="32" />
-      <File FileName="Views/Home/About.cshtml" Line="8" Column="1" />
+      <File FileName="Program.cs" Line="16" Column="18" />
+      <File FileName="test-MyMacVS/test-MyMacVS/TestController.cs" Line="12" Column="1" />
+      <File FileName="myMacVS.git Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.test-MyMacVS PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
