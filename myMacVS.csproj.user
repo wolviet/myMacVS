@@ -6,6 +6,7 @@
       <Variable name="ASPNETCORE_ENVIRONMENT" value="Development" xmlns="" />
     </EnvironmentVariables>
     <ApplicationURL>http://localhost:59325</ApplicationURL>
+    <LaunchUrl></LaunchUrl>
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>IIS Express</ActiveDebugProfile>

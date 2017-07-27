@@ -6,23 +6,19 @@
     <ApplicationInsightsAnnotationResourceId>/subscriptions/42b1fcd8-c6eb-4779-bf52-8e3bb857b074/resourceGroups/dev/providers/microsoft.insights/components/webgazcore</ApplicationInsightsAnnotationResourceId>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="test-mymacvs\**" />
-    <Content Remove="test-mymacvs\**" />
-    <EmbeddedResource Remove="test-mymacvs\**" />
-    <None Remove="test-mymacvs\**" />
-  </ItemGroup>
 
-
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+  </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore" Version="1.1.2" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.3" />
     <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.2" />
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.2" />
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.1.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="1.1.2" />
-    <PackageReference Include="xunit" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="1.1.1" />
   </ItemGroup>
 
 
@@ -37,8 +33,33 @@
   <ItemGroup>
     <Compile Remove="UnitTest1.cs" />
     <Compile Remove="HomeController_tests.cs" />
+    <Compile Remove="test-MyMacVS\test-MyMacVS\TestController.cs" />
+    <Compile Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.Program.cs" />
+    <Compile Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.AssemblyInfo.cs" />
+    <Compile Remove="test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\test-MyMacVS.Program.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Properties\PublishProfiles\webgazcore - Web Deploy.pubxml" />
+    <None Remove="test-MyMacVS\test-MyMacVS\obj\test-MyMacVS.csproj.nuget.g.props" />
+    <None Remove="test-MyMacVS\test-MyMacVS\obj\test-MyMacVS.csproj.nuget.g.targets" />
+    <None Remove="test-MyMacVS\test-MyMacVS\bin\Debug\netcoreapp1.1\myMacVS.dll" />
+    <None Remove="test-MyMacVS\test-MyMacVS\bin\Debug\netcoreapp1.1\myMacVS.pdb" />
+    <None Remove="test-MyMacVS\test-MyMacVS\bin\Debug\netcoreapp1.1\test-MyMacVS.dll" />
+    <None Remove="test-MyMacVS\test-MyMacVS\bin\Debug\netcoreapp1.1\test-MyMacVS.pdb" />
+    <None Remove="test-MyMacVS\test-MyMacVS\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll" />
+    <None Remove="test-MyMacVS\test-MyMacVS\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll" />
+    <None Remove="test-MyMacVS\test-MyMacVS\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll" />
+    <None Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.csproj.CoreCompileInputs.cache" />
+    <None Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.csproj.FileListAbsolute.txt" />
+    <None Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.csprojResolveAssemblyReference.cache" />
+    <None Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.dll" />
+    <None Remove="test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.pdb" />
+    <None Remove="test-MyMacVS\test-MyMacVS\test-MyMacVS.userprefs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="test-MyMacVS\test-MyMacVS\obj\project.assets.json" />
+    <Content Remove="test-MyMacVS\test-MyMacVS\bin\Debug\netcoreapp1.1\test-MyMacVS.deps.json" />
+    <Content Remove="test-MyMacVS\test-MyMacVS\bin\Debug\netcoreapp1.1\test-MyMacVS.runtimeconfig.dev.json" />
+    <Content Remove="test-MyMacVS\test-MyMacVS\bin\Debug\netcoreapp1.1\test-MyMacVS.runtimeconfig.json" />
   </ItemGroup>
 </Project>
