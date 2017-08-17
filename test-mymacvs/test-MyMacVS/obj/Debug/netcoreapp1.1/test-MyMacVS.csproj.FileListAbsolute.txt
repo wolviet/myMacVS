@@ -1,0 +1,14 @@
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\netcoreapp1.1\test-MyMacVS.deps.json
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\netcoreapp1.1\test-MyMacVS.runtimeconfig.json
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\netcoreapp1.1\test-MyMacVS.runtimeconfig.dev.json
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.csprojResolveAssemblyReference.cache
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.AssemblyInfo.cs
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\netcoreapp1.1\test-MyMacVS.dll
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\netcoreapp1.1\test-MyMacVS.pdb
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\netcoreapp1.1\myMacVS.dll
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\netcoreapp1.1\myMacVS.pdb
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.dll
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.pdb
