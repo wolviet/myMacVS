@@ -1,7 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Gaz\\.nuget\\packages"
+      "C:\\Users\\Gaz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gaz\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback"
     ]
   }
 }

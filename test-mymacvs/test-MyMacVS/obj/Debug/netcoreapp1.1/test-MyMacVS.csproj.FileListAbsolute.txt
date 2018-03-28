@@ -12,3 +12,6 @@ C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcorea
 C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Release\netcoreapp1.1\netcoreapp1.1\myMacVS.pdb
 C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.dll
 C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.pdb
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.csproj.CoreCompileInputs.cache
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.AssemblyInfoInputs.cache
+C:\Users\Gaz\Source\Repos\myMacVS\test-MyMacVS\test-MyMacVS\obj\Debug\netcoreapp1.1\test-MyMacVS.csproj.CopyComplete

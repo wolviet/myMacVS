@@ -38,3 +38,4 @@ C:\Users\Gaz\Source\Repos\myMacVS\obj\Debug\netcoreapp1.1\myMacVS.dll
 C:\Users\Gaz\Source\Repos\myMacVS\obj\Debug\netcoreapp1.1\myMacVS.pdb
 C:\Users\Gaz\Source\Repos\myMacVS\obj\Debug\netcoreapp1.1\myMacVS.csproj.CoreCompileInputs.cache
 C:\Users\Gaz\Source\Repos\myMacVS\obj\Debug\netcoreapp1.1\myMacVS.AssemblyInfoInputs.cache
+C:\Users\Gaz\source\repos\myMacVS\obj\Debug\netcoreapp1.1\myMacVS.csprojResolveAssemblyReference.cache
